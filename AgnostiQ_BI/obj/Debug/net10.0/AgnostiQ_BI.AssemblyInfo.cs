@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgnostiQ_BI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0d3610145972091c7ebe9cd485d0ff9d248b4e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d582a6d366e9135725604c2d66463555d2f3107")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgnostiQ_BI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgnostiQ_BI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

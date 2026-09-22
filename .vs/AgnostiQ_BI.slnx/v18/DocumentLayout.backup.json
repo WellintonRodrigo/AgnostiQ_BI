@@ -1,12 +1,109 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|c:\\users\\welli\\onedrive\\documentos\\projetos\\agnostiq_bi\\agnostiq_bi\\features\\timeseriesanalytics\\data\\timeseriesmetricconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|solutionrelative:agnostiq_bi\\features\\timeseriesanalytics\\data\\timeseriesmetricconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|c:\\users\\welli\\onedrive\\documentos\\projetos\\agnostiq_bi\\agnostiq_bi\\features\\timeseriesanalytics\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|solutionrelative:agnostiq_bi\\features\\timeseriesanalytics\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|c:\\users\\welli\\onedrive\\documentos\\projetos\\agnostiq_bi\\agnostiq_bi\\features\\timeseriesanalytics\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|solutionrelative:agnostiq_bi\\features\\timeseriesanalytics\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|c:\\users\\welli\\onedrive\\documentos\\projetos\\agnostiq_bi\\agnostiq_bi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|solutionrelative:agnostiq_bi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|c:\\users\\welli\\onedrive\\documentos\\projetos\\agnostiq_bi\\agnostiq_bi\\features\\timeseriesanalytics\\domain\\timeseriesentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28705C37-F9B9-4DCA-906A-98E0DABF5F7B}|AgnostiQ_BI\\AgnostiQ_BI.csproj|solutionrelative:agnostiq_bi\\features\\timeseriesanalytics\\domain\\timeseriesentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeSeriesMetricConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\TimeSeriesMetricConfiguration.cs",
+              "RelativeDocumentMoniker": "AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\TimeSeriesMetricConfiguration.cs",
+              "ToolTip": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\TimeSeriesMetricConfiguration.cs",
+              "RelativeToolTip": "AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\TimeSeriesMetricConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:01:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T14:55:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Program.cs",
+              "RelativeDocumentMoniker": "AgnostiQ_BI\\Program.cs",
+              "ToolTip": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Program.cs",
+              "RelativeToolTip": "AgnostiQ_BI\\Program.cs",
+              "ViewState": "AgIAAAkAAABAMzMzMzMfwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T14:08:07.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T14:04:40.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeSeriesEntities.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Domain\\TimeSeriesEntities.cs",
+              "RelativeDocumentMoniker": "AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Domain\\TimeSeriesEntities.cs",
+              "ToolTip": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\AgnostiQ_BI\\AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Domain\\TimeSeriesEntities.cs",
+              "RelativeToolTip": "AgnostiQ_BI\\Features\\TimeSeriesAnalytics\\Domain\\TimeSeriesEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T14:24:55.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,4 +1,6 @@
 using AgnostiQ_BI.Components;
+using AgnostiQ_BI.Features.TimeSeriesAnalytics.Data;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +9,15 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 var app = builder.Build();
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+    ?? "Server=localhost;Port=3306;Database=agnostiq_bi;User=root;Password=;";
+
+builder.Services.AddDbContext<AppDbContext>(options=>
+options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+builder.Services.AddRazorComponents()
+    .AddInteractiveServerComponents();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -21,7 +32,7 @@ app.UseHttpsRedirection();
 app.UseAntiforgery();
 
 app.MapStaticAssets();
-app.MapRazorComponents<App>()
+app.MapRazorComponents<AgnostiQ_BI.Components.App>()
     .AddInteractiveServerRenderMode();
 
 app.Run();
