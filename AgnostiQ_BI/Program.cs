@@ -11,7 +11,7 @@ builder.Services.AddRazorComponents()
 var app = builder.Build();
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
-    ?? "Server=localhost;Port=3306;Database=agnostiq_bi;User=root;Password=;";
+    ?? null;
 
 builder.Services.AddDbContext<AppDbContext>(options=>
 options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
